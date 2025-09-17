@@ -22,6 +22,9 @@ public class Javabasic {
 			}
 		}
 		
+		System.out.println("Code change1");
+		System.out.println("Code change2");
+		System.out.println("Code change3");
 
 	}
 
