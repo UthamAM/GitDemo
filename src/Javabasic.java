@@ -31,6 +31,8 @@ public class Javabasic {
 		System.out.println("Code change4");
 		System.out.println("Code gitchange6");
 		System.out.println("Code gitchange7");
+		System.out.println("Code app test");
+		System.out.println("Code app test1");
 
 	}
 
